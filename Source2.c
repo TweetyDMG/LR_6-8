@@ -8,7 +8,7 @@ int main()
     int var_shar;
     int amount;
 
-    printf("Я вычитаю твой вариант \n\n");
+    printf("Я вычислю твой вариант \n\n");
 
     printf("Введи свой вариант в общем списке: ");
     scanf("%d", &var_shar);
